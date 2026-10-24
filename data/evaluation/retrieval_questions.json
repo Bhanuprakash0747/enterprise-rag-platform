@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What authentication does Catalog V2 use?",
+    "expected_document": "catalog_v2_migration",
+    "expected_chunk_index": 0
+  },
+  {
+    "question": "How long are Catalog V2 access tokens valid?",
+    "expected_document": "catalog_v2_migration",
+    "expected_chunk_index": 1
+  },
+  {
+    "question": "What should be done when CAT-V2-ERROR-4097 occurs?",
+    "expected_document": "catalog_v2_migration",
+    "expected_chunk_index": 2
+  },
+  {
+    "question": "What does HTTP 429 mean?",
+    "expected_document": "catalog_v2_troubleshooting",
+    "expected_chunk_index": 0
+  },
+  {
+    "question": "What is the recommended retry strategy for rate limiting?",
+    "expected_document": "catalog_v2_troubleshooting",
+    "expected_chunk_index": 1
+  },
+  {
+    "question": "What was introduced in Catalog V2.2?",
+    "expected_document": "catalog_v2_release_notes",
+    "expected_chunk_index": 1
+  }
+]

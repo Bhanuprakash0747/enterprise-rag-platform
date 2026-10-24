@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+numpy
+sentence-transformers
+faiss-cpu
+rank-bm25
